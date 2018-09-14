@@ -20,7 +20,7 @@ body {
 .jumbotron{
   height: 50vw;
   color: rgb(222, 112, 236);
-  background-image: url("/COCONUNS-webpage/images/cover-coconuns.png") ;
+  background-image: url("../images/cover-coconuns.png") ;
   height: 900px;
   /* background-size: cover; */
 
